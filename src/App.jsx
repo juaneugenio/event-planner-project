@@ -1,7 +1,7 @@
-import React, { useState } from "react";
 import "./App.css";
 import ConferenceEvent from "./ConferenceEvent";
 import AboutUs from "./AboutUs";
+import { useState } from "react";
 
 function App() {
   const [showVenue, setShowVenue] = useState(false);
