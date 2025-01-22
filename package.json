@@ -1,7 +1,9 @@
 {
   "name": "eventone",
+  "author": "Juan C. Eugenio",
   "private": true,
   "version": "0.0.0",
+  "description": "This is a React app for a conference event booking website. Practice project for a React course using redux.",
   "type": "module",
   "scripts": {
     "dev": "vite",
