@@ -48,5 +48,3 @@ The application's requirements include allowing users to select and price the ro
 - Implemented Redux actions, reducers and the Redux store to increment and decrement stored values and dynamically display those values.
 - Calculated and displayed costs using arrays and the map() function to iterate over the arrays
 - Made a dynamic table to show selected products, displaying the item names, unit cost, quantity, and subtotal for that item
-
-[def]: "./src/assets/LandingPage.jpeg"
