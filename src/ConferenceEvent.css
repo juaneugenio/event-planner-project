@@ -156,7 +156,7 @@
   .display_box1 {
     margin-top: 20px;
     overflow-y: auto;
-    height: 300px;
+    height: auto;
     scrollbar-width: thin;
     scrollbar-color: #b7b4b4 transparent; 
   }
